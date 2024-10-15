@@ -15,4 +15,6 @@ Result :
 
 LINK REPO : https://github.com/MuhamadIqbal073/Kelomok-7-Q-Learning-SnakeGame
 
+Result : 
+
 
