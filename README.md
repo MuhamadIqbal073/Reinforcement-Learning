@@ -10,6 +10,10 @@ Permainan "Treasure Drop" adalah permainan strategi di mana pemain menjatuhkan k
 LINK REPO : https://github.com/MuhamadIqbal073/Kelompok-7-MonteCarlo-SnakeGame
 
 Result :
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/9cae9da6-2d9c-4baa-8657-deea26dd27ce" width="400" />
+</div>
+
 
 # 3 IMPLEMENTASI Q-LEARNING SNAKE GAME
 
