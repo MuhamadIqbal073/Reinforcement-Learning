@@ -36,4 +36,8 @@ Result :
   <video src="https://github.com/user-attachments/assets/362d1bd5-5069-4ddd-9c2a-33070e2652e9" width="400" />
 </div>
 
+# REFERENSI 
+1. https://github.com/arapfaik/rl-project
+2. https://github.com/brianspiering/rl-course/tree/main/06_q_learning
+
 
