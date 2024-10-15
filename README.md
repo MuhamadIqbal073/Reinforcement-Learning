@@ -27,7 +27,7 @@ Result :
   <video src="https://github.com/user-attachments/assets/8b7d1474-eab7-46ea-8b28-baeb1498be8a" width="400" />
 </div>
 
-# 4 TEMPORAL DIFFERENCE "SNAKE GAME"
+# 4 IMPLEMENTASI TEMPORAL DIFFERENCE "SNAKE GAME"
 
 LINK REPOSITORY : https://github.com/MuhamadIqbal073/Kelompok-7-Temporal-Difference-snakeGame
 
