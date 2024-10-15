@@ -20,4 +20,13 @@ Result :
   <video src="https://github.com/user-attachments/assets/8b7d1474-eab7-46ea-8b28-baeb1498be8a" width="400" />
 </div>
 
+# 4 TEMPORAL DIFFERENCE "SNAKE GAME"
+
+LINK REPO : https://github.com/MuhamadIqbal073/Kelompok-7-Temporal-Difference-snakeGame
+
+Result :
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/362d1bd5-5069-4ddd-9c2a-33070e2652e9" width="400" />
+</div>
+
 
