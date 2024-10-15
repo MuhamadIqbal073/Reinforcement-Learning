@@ -1,4 +1,7 @@
-# Reinforcement-Learning
+# Reinforcement-Learning KELOMPOK 7
+# MUHAMAD IQBAL (G1A021073)
+# FAJAR ADHITIA SUWANDHI (G1A021086)
+# IRFAN LUTHFI (G1A021090)
 
 # 1 DEEP Q LEARNING "TREASURE DROP GAME"
 Jalankan pada Google Colab
