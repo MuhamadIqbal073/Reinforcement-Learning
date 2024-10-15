@@ -11,4 +11,8 @@ LINK REPO : https://github.com/MuhamadIqbal073/Kelompok-7-MonteCarlo-SnakeGame
 
 Result :
 
+# 3 IMPLEMENTASI Q-LEARNING SNAKE GAME
+
+LINK REPO : https://github.com/MuhamadIqbal073/Kelomok-7-Q-Learning-SnakeGame
+
 
