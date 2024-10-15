@@ -17,7 +17,7 @@ LINK REPO : https://github.com/MuhamadIqbal073/Kelomok-7-Q-Learning-SnakeGame
 
 Result : 
 <div align="center">
-  <video src="https://github.com/MuhamadIqbal073/github/Q LEARNING VIDEO RESULT.mp4" width="400" />
+  <video src="https://github.com/MuhamadIqbal073/github/Q LEARNING VIDEO RESULT.mp4](https://github.com/user-attachments/assets/8b7d1474-eab7-46ea-8b28-baeb1498be8a)" width="400" />
 </div>
 
 
