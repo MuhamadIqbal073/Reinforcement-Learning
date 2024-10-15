@@ -7,7 +7,7 @@ Permainan "Treasure Drop" adalah permainan strategi di mana pemain menjatuhkan k
 
 # 2 IMPLEMENTASI MONTE CARLO DALAM GAME 
 
-LINK REPO : https://github.com/MuhamadIqbal073/Kelompok-7-MonteCarlo-SnakeGame
+LINK REPOSITORY : https://github.com/MuhamadIqbal073/Kelompok-7-MonteCarlo-SnakeGame
 
 Result :
 <div align="center">
@@ -17,7 +17,7 @@ Result :
 
 # 3 IMPLEMENTASI Q-LEARNING SNAKE GAME
 
-LINK REPO : https://github.com/MuhamadIqbal073/Kelomok-7-Q-Learning-SnakeGame
+LINK REPOSITORY : https://github.com/MuhamadIqbal073/Kelomok-7-Q-Learning-SnakeGame
 
 Result : 
 <div align="center">
@@ -26,7 +26,7 @@ Result :
 
 # 4 TEMPORAL DIFFERENCE "SNAKE GAME"
 
-LINK REPO : https://github.com/MuhamadIqbal073/Kelompok-7-Temporal-Difference-snakeGame
+LINK REPOSITORY : https://github.com/MuhamadIqbal073/Kelompok-7-Temporal-Difference-snakeGame
 
 Result :
 <div align="center">
